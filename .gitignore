@@ -1,0 +1,15 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+android/.gradle/
+*.iml
+
+# VS Code
+.vscode/
+
+# Misc
+*.lock
+*.log
